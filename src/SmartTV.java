@@ -8,7 +8,7 @@ class SmartTV extends Gadget {
     }
 
     void streamVideo(String url) {
-        System.out.println("Воспроизведение видео по адресу: " + url);
+        System.out.println("Воспроизведение видео по адресу на тв: " + url);
     }
 
     void changeChannel(int channel) {

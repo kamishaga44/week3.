@@ -7,6 +7,7 @@ public class Main {
         phone.turnOn();
         phone.connectToInternet();
         phone.makeCall("+7059549602");
+        phone.streamPhone("https://youtu.be/iwd8N6K-sLk?si=NmUsVCGXMeStLH14");
 
         watch.turnOn();
         watch.connectToInternet();

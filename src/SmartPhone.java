@@ -20,4 +20,7 @@ class SmartPhone extends Gadget {
         System.out.println("Установка соединения с другим устройством.");
 
     }
+    void streamPhone(String url) {
+        System.out.println("Воспроизведение видео по адресу на телефоне: " + url);
+    }
 }
